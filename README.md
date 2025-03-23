@@ -1,2 +1,2 @@
 # Ballet-Equipment-Store---Database-Project
-The project is a database management system designed to manage a ballet equipment store. 
+The project is a database management system designed to manage a ballet equipment store. It includes the organization of products, customers, orders, and inventory, providing efficient data handling and storage. The system also supports functionalities like sorting and filtering, ensuring smooth operations for the store. The project uses SQL for the backend and is being developed with a frontend in WebStorm (HTML, JS, CSS) and a backend in Flask (Python).
